@@ -7,7 +7,9 @@ A javascript perlin noise generator.
 
 [Simple Perlin Blocks](http://bl.ocks.org/d2fn/8777d620caef32959713)
 
-[Perlin Curves](http://bl.ocks.org/d2fn/0d3789278f3d9816e0fd)
+[Perlin Curves I](http://bl.ocks.org/d2fn/0d3789278f3d9816e0fd)
+
+[Perlin Curves II](http://bl.ocks.org/d2fn/60f517d7a617990ed45e)
 
 ### Code
 
